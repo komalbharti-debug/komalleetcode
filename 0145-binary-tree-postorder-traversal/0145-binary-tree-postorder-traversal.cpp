@@ -12,26 +12,34 @@
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
+        //using two stacks
+
         //left right root
         vector<int>ans;
         if(root==NULL)
         return ans;
-        stack<TreeNode*>s1,s2;
-        s1.push(root);
+        //one store reverse like in left right root
+        stack<TreeNode*>s1;
+       s1.push(root);
         while(!s1.empty()){
-            TreeNode* curr=s1.top();
+            TreeNode* node=s1.top();//phele element nikaalenge
             s1.pop();
-            s2.push(curr);
-            if(curr->left)
-            s1.push(curr->left);
-            if(curr->right)
-            s1.push(curr->right);
+            //same bs yeah line extra h push karenge to push into s2
+         //   s2.push(node);
+          ans.push_back(node->val);
+            if(node->left)
+            s1.push(node->left);
+            if(node->right)
+            s1.push(node->right);
+          //   ans.push_back(root);
 
+       // }
+       // while(!s1.empty()){
+            //ans.push_back(s1.top()->val);//ans me push karenge s2 k top value
+         //  s1.pop();
         }
-        while(!s2.empty()){
-            ans.push_back(s2.top()->val);
-            s2.pop();
-        }
+       //  ans.push_back(root);
+        reverse(ans.begin(),ans.end());
         return ans;
 
     }
