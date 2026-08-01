@@ -44,3 +44,10 @@ public:
 
     }
 };
+//ex: 1
+   //2   3
+   //stack[1] ans[]
+   // stack[2,3]  ans[1]
+   //stack [2]  ans[1,3]
+   //stack ans[1,3,2]
+   //ans=[2,3,1]->reverse
