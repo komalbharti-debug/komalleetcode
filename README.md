@@ -81,9 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/komalbharti-debug/komalleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
