@@ -6,32 +6,28 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
- //hash map :to store element count 
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(head==NULL  || (head->next == NULL)) 
+
+        unordered_set<ListNode*> visited;
+
+        ListNode* curr = head;
+
+        while (curr != NULL) {
+
+            // Agar same node dobara mil gaya
+            if (visited.find(curr) != visited.end()) {
+                return curr;
+            }
+
+            // Current node ko store karo
+            visited.insert(curr);
+
+            curr = curr->next;
+        }
+
+        // Cycle nahi hai
         return NULL;
-         ListNode* fast=head;
-      ListNode* slow=head;
-      while(fast!=NULL &&fast->next!=NULL){
-        slow=slow->next;
-        fast=fast->next->next;
-        if(slow==fast)  //cycle detect
-            break;
-        
-        
-
-      }  
-      if(slow!=fast) return NULL;
-      
-      ListNode *P=head;
-      while(P!=slow){
-        P=P->next;
-        slow=slow->next;
-
-
-      }
-      return slow;
     }
 };
