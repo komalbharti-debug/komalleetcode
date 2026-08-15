@@ -10,6 +10,6 @@ public:
             pos++;}
 
         }
-        return count;
+        return pos;
     }
 };
