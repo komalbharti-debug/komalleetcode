@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/komalbharti-debug/komalleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0938-range-sum-of-bst](https://github.com/komalbharti-debug/komalleetcode/tree/master/0938-range-sum-of-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
