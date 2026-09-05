@@ -2,13 +2,14 @@ class MinStack {
 public:
 stack<int>st;
 stack<int>mn;
+
     MinStack() {
         
     }
     
     void push(int value) {
         st.push(value);
-        if(mn.empty() ||value<mn.top() ){
+        if(mn.empty()|| value<=mn.top()){
             mn.push(value);
         }
         else{
@@ -22,8 +23,8 @@ stack<int>mn;
     }
     
     int top() {
-      return  st.top();
-      return  mn.top();
+        return st.top();
+        return mn.top();
     }
     
     int getMin() {
