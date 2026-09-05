@@ -1,21 +1,19 @@
 class MinStack {
-    //question me diya push pop top and get min will be not called on empty stack
-    //never so no need to write empty condition
-    stack<int>st;
-    stack<int>mn;
 public:
+stack<int>st;
+stack<int>mn;
     MinStack() {
         
     }
     
     void push(int value) {
         st.push(value);
-       if(mn.empty()|| value<mn.top())
-        mn.push(value);
-       
-       else
-        mn.push(mn.top());
-       
+        if(mn.empty() ||value<mn.top() ){
+            mn.push(value);
+        }
+        else{
+            mn.push(mn.top());
+        }
     }
     
     void pop() {
@@ -24,8 +22,8 @@ public:
     }
     
     int top() {
-       return st.top();
-        
+      return  st.top();
+      return  mn.top();
     }
     
     int getMin() {
