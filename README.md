@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/komalbharti-debug/komalleetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komalbharti-debug/komalleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/komalbharti-debug/komalleetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 ## Greedy
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/komalbharti-debug/komalleetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
