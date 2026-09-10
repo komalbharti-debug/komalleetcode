@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komalbharti-debug/komalleetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/komalbharti-debug/komalleetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Lifting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komalbharti-debug/komalleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
 ## Array
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Divide and Conquer
@@ -197,9 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
