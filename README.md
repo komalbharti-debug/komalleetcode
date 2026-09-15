@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/komalbharti-debug/komalleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/komalbharti-debug/komalleetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/komalbharti-debug/komalleetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/komalbharti-debug/komalleetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Lifting
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/komalbharti-debug/komalleetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0836-rectangle-overlap](https://github.com/komalbharti-debug/komalleetcode/tree/master/0836-rectangle-overlap) |
 ## Greedy
 |  |
@@ -243,4 +246,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/komalbharti-debug/komalleetcode/tree/master/0836-rectangle-overlap) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
