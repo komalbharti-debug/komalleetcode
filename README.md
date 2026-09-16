@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/komalbharti-debug/komalleetcode/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/komalbharti-debug/komalleetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/komalbharti-debug/komalleetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/komalbharti-debug/komalleetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
