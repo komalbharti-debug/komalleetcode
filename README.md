@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0836-rectangle-overlap](https://github.com/komalbharti-debug/komalleetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/komalbharti-debug/komalleetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/komalbharti-debug/komalleetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/komalbharti-debug/komalleetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bézout's Lemma
 |  |
 | ------- |
