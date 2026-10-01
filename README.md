@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/komalbharti-debug/komalleetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
