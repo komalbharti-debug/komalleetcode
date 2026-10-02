@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/komalbharti-debug/komalleetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/komalbharti-debug/komalleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1207-unique-number-of-occurrences](https://github.com/komalbharti-debug/komalleetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
