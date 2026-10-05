@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/komalbharti-debug/komalleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/komalbharti-debug/komalleetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/komalbharti-debug/komalleetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/komalbharti-debug/komalleetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komalbharti-debug/komalleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/komalbharti-debug/komalleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
