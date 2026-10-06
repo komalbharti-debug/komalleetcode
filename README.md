@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/komalbharti-debug/komalleetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/komalbharti-debug/komalleetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/komalbharti-debug/komalleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/komalbharti-debug/komalleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/komalbharti-debug/komalleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/komalbharti-debug/komalleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/komalbharti-debug/komalleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -310,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/komalbharti-debug/komalleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
