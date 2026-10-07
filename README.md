@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komalbharti-debug/komalleetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/komalbharti-debug/komalleetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/komalbharti-debug/komalleetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/komalbharti-debug/komalleetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/komalbharti-debug/komalleetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/komalbharti-debug/komalleetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komalbharti-debug/komalleetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komalbharti-debug/komalleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/komalbharti-debug/komalleetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
