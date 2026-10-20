@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3206-alternating-groups-i](https://github.com/komalbharti-debug/komalleetcode/tree/master/3206-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/komalbharti-debug/komalleetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3206-alternating-groups-i](https://github.com/komalbharti-debug/komalleetcode/tree/master/3206-alternating-groups-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
