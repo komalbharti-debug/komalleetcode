@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3206-alternating-groups-i](https://github.com/komalbharti-debug/komalleetcode/tree/master/3206-alternating-groups-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/komalbharti-debug/komalleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/komalbharti-debug/komalleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/komalbharti-debug/komalleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
