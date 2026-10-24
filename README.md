@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
