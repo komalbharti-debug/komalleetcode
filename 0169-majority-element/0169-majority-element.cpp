@@ -1,19 +1,23 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-       //approach 1 using hash map 
-       // approach using moores voting algorithm with s.c:O(1)
-       unordered_map<int,int>freq;
-       int n=nums.size();
-       for(int x:nums){
-        freq[x]++;
-       }
-       for(int i=0;i<n;i++){
-        if(freq[nums[i]]>n/2){
-            return nums[i];
-        }
+        //moores voting algorithm
+        int count=0;
+        int candidate =0;
+        for(int i=0;i<nums.size();i++){
+            if(count==0){
+                count=1;
+                candidate=nums[i];
 
-       }
-       return 0;
+            }
+            else if(candidate==nums[i]){
+                count++;
+            }
+            else{
+                count--;
+            }
+
+        }
+        return candidate;
     }
 };
