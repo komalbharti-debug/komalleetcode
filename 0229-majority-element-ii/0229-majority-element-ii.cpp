@@ -13,7 +13,7 @@ public:
 
         }
         //candidate 1 seat vacant
-        else if(count1==0){// yeah phele case jab candidate =0 count=0 yeah count
+        else if(count1==0 && num!=candidate2){// yeah phele case jab candidate =0 count=0 yeah count
         //0 ho jaye
             candidate1=num;
             count1=1;
