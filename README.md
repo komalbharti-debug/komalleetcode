@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/komalbharti-debug/komalleetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/komalbharti-debug/komalleetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/komalbharti-debug/komalleetcode/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
@@ -353,8 +356,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
