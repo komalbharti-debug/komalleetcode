@@ -7,7 +7,7 @@ public:
         for(int num:nums){
             freq[num]++;
         }
-        for(auto &it:freq){
+        for(auto it:freq){
             if(it.second>n/3)
             ans.push_back(it.first);
         }
