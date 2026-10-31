@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/komalbharti-debug/komalleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/komalbharti-debug/komalleetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komalbharti-debug/komalleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komalbharti-debug/komalleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/komalbharti-debug/komalleetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
