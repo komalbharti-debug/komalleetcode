@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/komalbharti-debug/komalleetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/komalbharti-debug/komalleetcode/tree/master/0539-minimum-time-difference) |
 | [0944-delete-columns-to-make-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1207-unique-number-of-occurrences](https://github.com/komalbharti-debug/komalleetcode/tree/master/1207-unique-number-of-occurrences) |
