@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3206-alternating-groups-i](https://github.com/komalbharti-debug/komalleetcode/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/komalbharti-debug/komalleetcode/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/komalbharti-debug/komalleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/komalbharti-debug/komalleetcode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/komalbharti-debug/komalleetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
