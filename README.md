@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/komalbharti-debug/komalleetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2409-count-days-spent-together](https://github.com/komalbharti-debug/komalleetcode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/komalbharti-debug/komalleetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
