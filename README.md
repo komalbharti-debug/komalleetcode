@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/komalbharti-debug/komalleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/komalbharti-debug/komalleetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/komalbharti-debug/komalleetcode/tree/master/0938-range-sum-of-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/komalbharti-debug/komalleetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/komalbharti-debug/komalleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/komalbharti-debug/komalleetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/komalbharti-debug/komalleetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/komalbharti-debug/komalleetcode/tree/master/0647-palindromic-substrings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/komalbharti-debug/komalleetcode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/komalbharti-debug/komalleetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/komalbharti-debug/komalleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/komalbharti-debug/komalleetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/komalbharti-debug/komalleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Longest Increasing Subsequence
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/komalbharti-debug/komalleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -406,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/0796-rotate-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/komalbharti-debug/komalleetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
