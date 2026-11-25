@@ -7,7 +7,7 @@ public:
             if(mp.find(num)!=mp.end()){
                 return num;
             }
-             mp[num] = 1; 
+             mp[num] += 1; 
         }
         return -1;
     }
