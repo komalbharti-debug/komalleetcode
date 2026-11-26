@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/komalbharti-debug/komalleetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/komalbharti-debug/komalleetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/komalbharti-debug/komalleetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/komalbharti-debug/komalleetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/komalbharti-debug/komalleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1929-concatenation-of-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/komalbharti-debug/komalleetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/komalbharti-debug/komalleetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/komalbharti-debug/komalleetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
